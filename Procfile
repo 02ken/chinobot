@@ -1,1 +1,1 @@
-web: bin/hubot -a skype -n chinobot
+web: bin/hubot -a slack -n chinobot
